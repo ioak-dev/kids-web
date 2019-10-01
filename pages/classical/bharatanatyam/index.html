@@ -1,0 +1,30 @@
+<html>
+    <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.4.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.9.0/showdown.min.js" integrity="sha256-LSUpTY0kkXGKvcBC9kbmgibmx3NVVgJvAEfTZbs51mU=" crossorigin="anonymous"></script>
+    <script src="../../../app.js"></script>
+    <script>
+        $(function(){
+          $("#header-section").load("../header.html");
+        });
+    </script> 
+
+    <script>
+        markdown('index.md');
+    </script>
+    <body>
+        <div id="container">
+            <div id="header-section"></div>
+            <div>
+                <div id="cover-large" style="background-image: url('cover.jpg');">
+            </div>
+            <div id="content">
+                <div id="main">
+                        <div id="markdown"></div>
+                </div>
+            </div>
+            <div id="footer">
+                Copyright &copy; 2019 ioak.org
+            </div>
+        </div>
+    </body>
+</html>

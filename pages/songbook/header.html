@@ -1,0 +1,40 @@
+<html>
+    <head>
+        <title>Grow with Kids</title>
+        <link rel="stylesheet" type="text/css" href="../../../style.css">
+        <link href="https://fonts.googleapis.com/css?family=Raleway|Roboto|Source+Code+Pro&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    </head>
+    <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.4.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.9.0/showdown.min.js" integrity="sha256-LSUpTY0kkXGKvcBC9kbmgibmx3NVVgJvAEfTZbs51mU=" crossorigin="anonymous"></script>
+    <script src="../../../app.js"></script>
+
+    <div id="header">
+        <img className="logo" src="../../../logo/ioak_white.svg" alt="IOAK logo" />
+        <div class="nav navbar">
+            <ul class="nav-list">
+                <li><a href="../../../index.html">Home</a></li>
+                <li>
+                    <div class="dropdown">
+                        <a onClick="toggleNavSongbook()" class="dropbtn selected">Songbook&nbsp;<i class="fa fa-caret-down"></i></a>
+                        <div class="dropdown-content" id="nav-songbook">
+                            <a href="../../songbook/lionking/index.html">Lion King</a>
+                            <a href="../../songbook/frozen/index.html">Frozen</a>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="dropdown">
+                        <a onClick="toggleNavClassical()" class="dropbtn">Classical&nbsp;<i class="fa fa-caret-down"></i></a>
+                        <div class="dropdown-content" id="nav-classical">
+                            <a href="../../classical/bharatanatyam/index.html">Bharatanatyam</a>
+                        </div>
+                    </div>
+                </li>
+                <!-- <li><a href="../blog/index.html">Blog</a></li> -->
+                <!-- <li><a href="../about.html">About</a></li> -->
+                
+            </ul>
+        </div>
+    </div>
+</html>
