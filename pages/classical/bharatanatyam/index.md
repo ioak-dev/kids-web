@@ -37,7 +37,7 @@ tbd
 
 <a name="Ganesha-Sloka">
 ## Ganesha Sloka
-![Ganesha Sloka](image-slokas/ganesha.jpg#thumbnail)
+![Ganesha Sloka](image-slokas/ganesha.jpg#thumbnailX)
 
 Shree Vakratunda Mahakaya Suryakoti Samaprabha
 Nirvighnam Kuru Me Deva Sarva-Kaaryeshu Sarvada
@@ -46,7 +46,7 @@ Nirvighnam Kuru Me Deva Sarva-Kaaryeshu Sarvada
 
 <a name="Saraswati-Sloka">
 ## Saraswati Sloka
-![Saraswati Sloka](image-slokas/saraswati.jpg#thumbnail)
+![Saraswati Sloka](image-slokas/saraswati.jpg#thumbnailX)
 
 Saraswati Namastubhyam Varade Kaama-Roopini
 Vidyaarambham Karishyaami Siddhir-Bhavatu Me Sadaa
@@ -56,7 +56,7 @@ Vidyaarambham Karishyaami Siddhir-Bhavatu Me Sadaa
 
 <a name="Guru-Sloka">
 ## Guru Sloka
-![Guru Sloka](image-slokas/guru.jpg#thumbnail)
+![Guru Sloka](image-slokas/guru.jpg#thumbnailX)
 
 Guru Brahma Guru Vishnu Guru Devo Maheshwaraha
 Guru Saakshaat ParaBrahma Tasmai Sri Gurave Namaha
@@ -66,7 +66,7 @@ Guru Saakshaat ParaBrahma Tasmai Sri Gurave Namaha
 
 <a name="Nataraja-Sloka">
 ## Nataraja Sloka
-![Nataraja Sloka](image-slokas/nataraja.jpg#thumbnail)
+![Nataraja Sloka](image-slokas/nataraja.jpg#thumbnailX)
 
 Angikam Bhuvanam Yasya 
 Vachikam Sarva Vangmayam 
@@ -80,7 +80,7 @@ Tam Numah (or Vande) Saattvikam Shivam
 
 <a name="bhumi-devi-sloka">
 ## Bhumi Devi Sloka
-![Bhumi Devi Sloka](image-slokas/bhumi.jpg#thumbnail)
+![Bhumi Devi Sloka](image-slokas/bhumi.jpg#thumbnailX)
 
 Samudra-Vasane Devi Parvata-Stana-Mannddale
 Vissnnu-Patni Namas-Tubhyam Paada-Sparsham Kssamasva-Me

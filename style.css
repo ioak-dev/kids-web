@@ -21,7 +21,7 @@ h1, h2, h3, h4 {
     margin-left: auto;
     margin-right: auto;
     font-family: 'Roboto', sans-serif;
-    min-height: 100vh;
+    min-height: 104vh;
 }
 
 #header {
@@ -84,9 +84,32 @@ h1, h2, h3, h4 {
     }
 }
 
-img[src$='#thumbnail'] {
-  height: auto;
-  width: 40%;
+img[src$='#thumbnailX'] {
+    height: auto;
+    width: 40%;
+}
+
+.image-grid {
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    grid-template-rows: repeat(3, 16vh);
+    grid-gap: 15px;
+    justify-content: center;
+    justify-items: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.image-grid img {
+    width: auto;
+    height: 100%;
+}
+
+@media screen and (max-width: 992px) {
+    .image-grid {
+        grid-template-columns: repeat(2, auto);
+        grid-template-rows: repeat(3, 16vh);
+    }
 }
 
 snippet {
