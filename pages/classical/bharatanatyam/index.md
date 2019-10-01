@@ -2,16 +2,19 @@
 
 <!-- ![Random image](curate.jpg) -->
 
-- [Hand Gestures](#hand-gestures)
-    * [Pataka](#pataka)
-    * [Tripataka](#tripataka)
-    * [Ardhapataka](#ardhapataka)
-- [Slokas](#slokas)
-    * [Ganesha Sloka](#ganesha-sloka)
-    * [Saraswati Sloka](#saraswati-sloka)
-    * [Guru Sloka](#guru-sloka)
-    * [Nataraja Sloka](#nataraja-sloka)
-    * [Bhumi Sloka](#bhumi-sloka)
+## Table of Contents
+
+[Hand Gestures](#hand-gestures)
+* [Pataka](#pataka)
+* [Tripataka](#tripataka)
+* [Ardhapataka](#ardhapataka)
+
+[Slokas](#slokas)
+* [Ganesha Sloka](#ganesha-sloka)
+* [Saraswati Sloka](#saraswati-sloka)
+* [Guru Sloka](#guru-sloka)
+* [Nataraja Sloka](#nataraja-sloka)
+* [Bhumi Devi Sloka](#bhumi-devi-sloka)
 
 
 <a name="hand-gestures">
@@ -34,6 +37,8 @@ tbd
 
 <a name="Ganesha-Sloka">
 ## Ganesha Sloka
+![Ganesha Sloka](image-slokas/ganesha.jpg#thumbnail)
+
 Shree Vakratunda Mahakaya Suryakoti Samaprabha
 Nirvighnam Kuru Me Deva Sarva-Kaaryeshu Sarvada
 
@@ -41,6 +46,8 @@ Nirvighnam Kuru Me Deva Sarva-Kaaryeshu Sarvada
 
 <a name="Saraswati-Sloka">
 ## Saraswati Sloka
+![Saraswati Sloka](image-slokas/saraswati.jpg#thumbnail)
+
 Saraswati Namastubhyam Varade Kaama-Roopini
 Vidyaarambham Karishyaami Siddhir-Bhavatu Me Sadaa
 
@@ -49,6 +56,8 @@ Vidyaarambham Karishyaami Siddhir-Bhavatu Me Sadaa
 
 <a name="Guru-Sloka">
 ## Guru Sloka
+![Guru Sloka](image-slokas/guru.jpg#thumbnail)
+
 Guru Brahma Guru Vishnu Guru Devo Maheshwaraha
 Guru Saakshaat ParaBrahma Tasmai Sri Gurave Namaha
 
@@ -57,6 +66,8 @@ Guru Saakshaat ParaBrahma Tasmai Sri Gurave Namaha
 
 <a name="Nataraja-Sloka">
 ## Nataraja Sloka
+![Nataraja Sloka](image-slokas/nataraja.jpg#thumbnail)
+
 Angikam Bhuvanam Yasya 
 Vachikam Sarva Vangmayam 
 Aaharyam Chandra Taradi
@@ -67,8 +78,10 @@ Tam Numah (or Vande) Saattvikam Shivam
 *Whose ornaments are the moon and the stars*
 *Him, we version the pure (serene) Lord Shiva!*
 
-<a name="bhumi-sloka">
-## Bhumi Sloka
+<a name="bhumi-devi-sloka">
+## Bhumi Devi Sloka
+![Bhumi Devi Sloka](image-slokas/bhumi.jpg#thumbnail)
+
 Samudra-Vasane Devi Parvata-Stana-Mannddale
 Vissnnu-Patni Namas-Tubhyam Paada-Sparsham Kssamasva-Me
 

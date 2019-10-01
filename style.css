@@ -1,7 +1,6 @@
 body {
     background-color: #1B1B1E;
-    margin-top: 0px;
-    margin-bottom: 0px;
+    margin: 0;
 }
 
 a {
@@ -22,6 +21,7 @@ h1, h2, h3, h4 {
     margin-left: auto;
     margin-right: auto;
     font-family: 'Roboto', sans-serif;
+    min-height: 100vh;
 }
 
 #header {
@@ -54,23 +54,39 @@ h1, h2, h3, h4 {
 
 #cover {
     padding-top: 360px;
+    background-size: 100% auto;
 }
 
 #cover-large {
     padding-top: 560px;
+    background-size: 100% auto;
 }
 
 #cover-small {
     padding-top: 200px;
+    background-size: 100% auto;
 }
 
 #main {
-    width: 750px;
+    /* width: 750px; */
     padding: 10px 10px 10px 10px;
     font-family: 'Raleway', sans-serif;
     line-height: 2;
     font-size: large;
-    margin: auto;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+@media screen and (max-width: 992px) {
+    #main {
+        margin-left: 30px;
+        margin-right: 30px;
+    }
+}
+
+img[src$='#thumbnail'] {
+  height: auto;
+  width: 40%;
 }
 
 snippet {
