@@ -7,6 +7,8 @@
 
 ![Lion King - Circle of Life](circle-of-life.jpg)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CF-c1K3WWg4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Nants ingonyama bagithi Baba  
 Sithi uhm ingonyama  
 
