@@ -89,6 +89,11 @@ img[src$='#thumbnailX'] {
     width: 40%;
 }
 
+img[src$='#fullwidth'] {
+    height: auto;
+    width: 100%;
+}
+
 .image-grid {
     display: grid;
     grid-template-columns: repeat(2, auto);

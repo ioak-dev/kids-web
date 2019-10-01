@@ -1,12 +1,24 @@
-## Song List
-* [Circle of Life](#circle-of-life)  
-* [Hakuna Matata](#hakuna-matata)
+### Contents
+* Songbooks
+    * [Circle of Life](#songbook-1)
+    * [Hakuna Matata](#songbook-2)
 
-<a name="circle-of-life">
-## Circle of Life
+* Lyrics and Video
+    * [Circle of Life](#lyric-1)  
+    * [Hakuna Matata](#lyric-2)
 
-![Lion King - Circle of Life](circle-of-life.jpg)
+### Songbooks
+<a name="songbook-1">
+#### Circle of Life
+![Lion King - Circle of Life](circle-of-life.jpg#fullwidth)
 
+<a name="songbook-2">
+#### Hakuna Matata
+![Lion King - Hakuna Matata](hakuna-matata.jpg#fullwidth)
+
+### Lyrics and Video
+<a name="lyric-1">
+#### Circle of Life
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CF-c1K3WWg4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Nants ingonyama bagithi Baba  
@@ -49,12 +61,8 @@ On the path unwinding
 In the circle  
 The Circle of Life  
 
-
-<a name="hakuna-matata">
-## Hakuna Matata
-
-![Lion King - Hakuna Matata](hakuna-matata.jpg)
-
+<a name="lyric-2">
+#### Hakuna Matata
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yUioIn8rPPM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Hakuna Matata!  
